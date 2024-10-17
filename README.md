@@ -27,6 +27,9 @@ CREATE TABLE char_starships (
     starships VARCHAR(255)
 );
 ```
+
+**NOTE** All postgeSQL is in the postgresSQL file included in this respository
+
 2. Place the CSV File: Place the CSV file (`char_starships.csv`) in a directory accessible by the PostgreSQL server.
 
 3.Use the `COPY` Command: You can use the `COPY` command to import the CSV file into the PostgreSQL table. This command needs to be run from the PostgreSQL command-line interface (`psql`) or within a SQL script. Replace `/path/to/char_starships.csv` with the actual path to your CSV file.
