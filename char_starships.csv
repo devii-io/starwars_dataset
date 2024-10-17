@@ -1,0 +1,32 @@
+char_ship_id,starship_id,char_id,starships
+1,6,1,X-wing
+2,9,1,Imperial shuttle
+3,7,4,TIE Advanced x1
+4,6,9,X-wing
+5,20,10,Jedi starfighter
+6,23,10,Trade Federation cruiser
+7,31,10,Naboo star skiff
+8,32,10,Jedi Interceptor
+9,34,10,Belbullab-22 starfighter
+10,23,11,Trade Federation cruiser
+11,32,11,Jedi Interceptor
+12,15,11,Naboo fighter
+13,4,13,Millennium Falcon
+14,9,13,Imperial shuttle
+15,4,14,Millennium Falcon
+16,9,14,Imperial shuttle
+17,6,17,X-wing
+18,6,18,X-wing
+19,8,21,Slave 1
+20,4,24,Millennium Falcon
+21,12,28,A-wing
+22,4,30,Millennium Falcon
+23,16,37,Naboo Royal Starship
+24,17,42,Scimitar
+25,20,55,Jedi starfighter
+26,15,57,Naboo fighter
+27,34,77,Belbullab-22 starfighter
+28,25,84,T-70 X-wing fighter
+29,21,87,H-type Nubian yacht
+30,31,87,Naboo star skiff
+31,15,87,Naboo fighter

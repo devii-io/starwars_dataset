@@ -1,0 +1,14 @@
+char_vech_id,vech_id ,char_id,vehicles
+1,5,1,Snowspeeder
+2,13,1,Imperial Speeder Bike
+3,13,5,Imperial Speeder Bike
+4,19,10,Tribubble bongo
+5,21,11,Zephyr-G swoop bike
+6,23,11,XJ-6 airspeeder
+7,8,13,AT-ST
+8,5,17,Snowspeeder
+9,19,31,Tribubble bongo
+10,20,42,Sith speeder
+11,37,64,Flitknot speeder
+12,22,67,Koro-2 Exodrive airspeeder
+13,26,77,Tsmeu-6 personal wheel bike
