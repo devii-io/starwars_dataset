@@ -1,0 +1,105 @@
+char_id,name,height,mass,hair_color,skin_color,eye_color,birth_year,sex,gender,homeworld,homeworld_id,species,species_id
+16,Jabba Desilijic Tiure,175,1358,NA,"green-tan, brown",orange,600,hermaphroditic,masculine,Nal Hutta,63,Hutt,1
+19,Yoda,66,17,white,green,brown,896,male,masculine,Unknown,64,Yoda's species,2
+23,Bossk,190,113,none,green,red,53,male,masculine,Trandosha,28,Trandoshan,3
+26,Ackbar,180,83,none,brown mottle,orange,41,male,masculine,Mon Cala,30,Mon Calamari,4
+29,Wicket Systri Warrick,88,20,brown,brown,brown,8,male,masculine,Endor,6,Ewok,5
+30,Nien Nunb,160,68,none,grey,black,,male,masculine,Sullust,32,Sullustan,6
+32,Nute Gunray,191,90,none,mottled green,red,,male,masculine,Cato Neimoidia,17,Neimodian,7
+34,Jar Jar Binks,196,66,none,orange,orange,52,male,masculine,Naboo,62,Gungan,8
+35,Roos Tarpals,224,82,none,grey,orange,,male,masculine,Naboo,62,Gungan,8
+36,Rugor Nass,206,,none,green,orange,,male,masculine,Naboo,62,Gungan,8
+38,Watto,137,,black,"blue, grey",yellow,,male,masculine,Toydaria,33,Toydarian,9
+39,Sebulba,112,40,none,"grey, red",orange,,male,masculine,Malastare,34,Dug,10
+43,Bib Fortuna,180,,none,pale,pink,,male,masculine,Ryloth,36,Twi'lek,11
+44,Ayla Secura,178,55,none,blue,hazel,48,female,feminine,Ryloth,36,Twi'lek,11
+72,Ratts Tyerell,79,15,none,"grey, blue",unknown,,male,masculine,Aleen Minor,37,Aleena,12
+45,Dud Bolt,94,45,none,"blue, grey",yellow,,male,masculine,Vulpter,38,Vulptereen,13
+46,Gasgano,122,,none,"white, blue",black,,male,masculine,Troiken,39,Xexto,14
+47,Ben Quadinaros,163,65,none,"grey, green, yellow",orange,,male,masculine,Tund,40,Toong,15
+49,Ki-Adi-Mundi,198,82,white,pale,yellow,92,male,masculine,Cerea,42,Cerean,16
+50,Kit Fisto,196,87,none,green,black,,male,masculine,Glee Anselm,43,Nautolan,17
+42,Darth Maul,175,80,none,red,yellow,54,male,masculine,Dathomir,35,Zabrak,18
+51,Eeth Koth,171,,black,brown,brown,,male,masculine,Iridonia,44,Zabrak,18
+52,Adi Gallia,184,50,none,dark,blue,,female,feminine,Coruscant,8,Tholothian,19
+53,Saesee Tiin,188,,none,pale,orange,,male,masculine,Iktotch,46,Iktotchi,20
+54,Yarael Poof,264,,none,white,yellow,,male,masculine,Quermia,47,Quermian,21
+55,Plo Koon,188,80,none,orange,black,22,male,masculine,Dorin,48,Kel Dor,22
+56,Mas Amedda,196,,none,blue,blue,,male,masculine,Champala,49,Chagrian,23
+60,Poggle the Lesser,183,80,none,green,yellow,,male,masculine,Geonosis,10,Geonosian,24
+61,Luminara Unduli,170,56.2,black,yellow,blue,58,female,feminine,Mirial,50,Mirialan,25
+62,Barriss Offee,166,50,black,yellow,blue,40,female,feminine,Mirial,50,Mirialan,25
+67,Zam Wesell,168,55,blonde,"fair, green, yellow",yellow,,female,feminine,Zolan,53,Clawdite,26
+68,Dexter Jettster,198,102,none,brown,yellow,,male,masculine,Ojom,54,Besalisk,27
+69,Lama Su,229,88,none,grey,black,,male,masculine,Kamino,9,Kaminoan,28
+70,Taun We,213,,none,grey,black,,female,feminine,Kamino,9,Kaminoan,28
+74,Wat Tambor,193,48,none,"green, grey",unknown,,male,masculine,Skako,55,Skakoan,29
+75,San Hill,191,,none,grey,gold,,male,masculine,Muunilinst,56,Muun,30
+76,Shaak Ti,178,57,none,"red, blue, white",black,,female,feminine,Shili,57,Togruta,31
+77,Grievous,216,159,none,"brown, white","green, yellow",,male,masculine,Kalee,58,Kaleesh,32
+81,Tion Medon,206,80,none,grey,black,,male,masculine,Utapau,11,Pau'an,33
+13,Chewbacca,228,112,brown,unknown,blue,200,male,masculine,Kashyyyk,13,Wookiee,34
+78,Tarfful,234,136,brown,brown,blue,,male,masculine,Kashyyyk,13,Wookiee,34
+2,C-3PO,167,75,NA,gold,yellow,112,none,masculine,Tatooine,60,Droid,35
+3,R2-D2,96,32,NA,"white, blue",red,33,none,masculine,Naboo,62,Droid,35
+8,R5-D4,97,32,NA,"white, red",red,,none,masculine,Tatooine,60,Droid,35
+22,IG-88,200,140,none,metal,red,15,none,masculine,Unknown,64,Droid,35
+73,R4-P17,96,,none,"silver, red","red, blue",,none,feminine,Unknown,64,Droid,35
+85,BB8,,,none,none,black,,none,masculine,Unknown,64,Droid,35
+95,K-2SO,216,,,,,12,NA,masculine,Vulpter,38,Droid,35
+99,L3-37,179,,,,,,,feminine,Unknown,64,Droid,35
+1,Luke Skywalker,172,77,blond,fair,blue,19,male,masculine,Tatooine,60,Human,36
+4,Darth Vader,202,136,none,white,yellow,41.9,male,masculine,Tatooine,60,Human,36
+5,Leia Organa,150,49,brown,light,brown,19,female,feminine,Alderaan,1,Human,36
+6,Owen Lars,178,120,"brown, grey",light,blue,52,male,masculine,Tatooine,60,Human,36
+7,Beru Whitesun lars,165,75,brown,light,blue,47,female,feminine,Tatooine,60,Human,36
+9,Biggs Darklighter,183,84,black,light,brown,24,male,masculine,Tatooine,60,Human,36
+10,Obi-Wan Kenobi,182,77,"auburn, white",fair,blue-gray,57,male,masculine,Stewjon,19,Human,36
+11,Anakin Skywalker,188,84,blond,fair,blue,41.9,male,masculine,Tatooine,60,Human,36
+12,Wilhuff Tarkin,180,,"auburn, grey",fair,blue,64,male,masculine,Eriadu,20,Human,36
+14,Han Solo,180,80,brown,fair,brown,29,male,masculine,Corellia,21,Human,36
+17,Wedge Antilles,170,77,brown,fair,hazel,21,male,masculine,Corellia,21,Human,36
+18,Jek Tono Porkins,180,110,brown,fair,blue,,male,masculine,Bestine IV,25,Human,36
+20,Palpatine,170,75,grey,pale,yellow,82,male,masculine,Naboo,62,Human,36
+21,Boba Fett,183,78.2,black,fair,brown,31.5,male,masculine,Kamino,9,Human,36
+24,Lando Calrissian,177,79,black,dark,brown,31,male,masculine,Socorro,29,Human,36
+25,Lobot,175,79,none,light,blue,37,male,masculine,Bespin,5,Human,36
+27,Mon Mothma,150,,auburn,fair,blue,48,female,feminine,Chandrila,31,Human,36
+28,Arvel Crynyd,,,brown,fair,brown,,male,masculine,Unknown,64,Human,36
+31,Qui-Gon Jinn,193,89,brown,fair,blue,92,male,masculine,Unknown,64,Human,36
+33,Finis Valorum,170,,blond,fair,blue,91,male,masculine,Coruscant,8,Human,36
+41,Shmi Skywalker,163,,black,fair,brown,72,female,feminine,Tatooine,60,Human,36
+48,Mace Windu,188,84,none,dark,brown,72,male,masculine,Haruun Kal,41,Human,36
+57,Gregar Typho,185,85,black,dark,brown,,male,masculine,Naboo,62,Human,36
+58,CordA,157,,brown,light,brown,,female,feminine,Naboo,62,Human,36
+59,Cliegg Lars,183,,brown,fair,blue,82,male,masculine,Tatooine,60,Human,36
+63,Dorma,165,,brown,light,brown,,female,feminine,Naboo,62,Human,36
+64,Dooku,193,80,white,fair,brown,102,male,masculine,Serenno,51,Human,36
+65,Bail Prestor Organa,191,,black,tan,brown,67,male,masculine,Alderaan,1,Human,36
+66,Jango Fett,183,79,black,tan,brown,66,male,masculine,Concord Dawn,52,Human,36
+71,Jocasta Nu,167,,white,fair,blue,,female,feminine,Coruscant,8,Human,36
+79,Raymus Antilles,188,79,brown,light,brown,,male,masculine,Alderaan,1,Human,36
+82,Finn,178,73,black,dark,dark,,male,masculine,Unknown,64,Human,36
+83,Rey Skywalker,170,54,brown,light,hazel,,female,feminine,Unknown,64,Human,36
+84,Poe Dameron,,,brown,light,brown,,male,masculine,Unknown,64,Human,36
+87,Padma Amidala,165,45,brown,light,brown,46,female,feminine,Naboo,62,Human,36
+88,Ben Solo/Kylo Ren,189,89,dark brown,light,"brown, yellow",5,male,masculine,Chandrila,31,Human,36
+90,Galen Erso,183,,Aburn,light,brown,56,male,masculine,Grange,68,Human,36
+91,Jyn Erso,160,,brown,light,green,21,female,feminine,Vallt,73,Human,36
+92,Cassian Andor,178,,33,tan,brown,33,male,masculine,Kenari,70,Human,36
+93,Orson Krennic,180,,brown,light,blue,51,male,masculine,Lexrul,71,Human,36
+94,Chirrut Imwe,173,,brown,tan,blue,52,male,masculine,Jedha,69,Human,36
+96,Baze Malbus,180,,brown,tan,brown,53,male,masculine,Jedha,69,Human,36
+97,Saw Gerrera,180,,black,dark,brown,,male,masculine,Onderon,72,Human,36
+100,Tobias Beckett,178,,blonde,light,blue,,male,masculine,Glee Anselm,43,Human,36
+103,Enfys Nest,167,,red,tan,brown,27,female,feminine,Unknown,64,Human,36
+104,Qi'Ra,158,,brown,light,blue-green,31,female,feminine,Corellia,21,Human,36
+15,Greedo,173,74,NA,green,black,44,male,masculine,Rodia,22,Rodian,37
+37,Ric Olia,183,,brown,fair,blue,,NA,NA,Naboo,62,NA,38
+40,Quarsh Panaka,183,,black,dark,brown,62,NA,NA,Naboo,62,NA,38
+80,Sly Moore,178,48,none,pale,white,,NA,NA,Umbara,59,NA,38
+86,Captain Phasma,,,unknown,unknown,unknown,,NA,NA,Unknown,64,NA,38
+89,Snoke,218,,white,pale,blue,12,male,masculine,Exegol,67,Humanoid,38
+102,Rio Durant,149,,gray,blue and tan,brown,,male,masculine,Ardennia,65,Ardennia,39
+101,Lady Proxima,488,,,white,green,,female,feminine,Corellia,21,Grindalid,40
+98,Dryden Vos,192,,blonde,light,blue,,male,masculine,Unknown,64,Near-Human,41

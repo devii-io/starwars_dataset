@@ -1,0 +1,232 @@
+char_filmid,char_id,films,film_id
+1,1,The Empire Strikes Back,5
+2,1,Revenge of the Sith,3
+3,1,Return of the Jedi,6
+4,1,A New Hope,4
+5,1,The Force Awakens,7
+6,2,The Empire Strikes Back,5
+7,2,Attack of the Clones,2
+8,2,The Phantom Menace,1
+9,2,Revenge of the Sith,3
+10,2,Return of the Jedi,6
+11,2,A New Hope,4
+12,3,The Empire Strikes Back,5
+13,3,Attack of the Clones,2
+14,3,The Phantom Menace,1
+15,3,Revenge of the Sith,3
+16,3,Return of the Jedi,6
+17,3,A New Hope,4
+18,3,The Force Awakens,7
+19,4,The Empire Strikes Back,5
+20,4,Revenge of the Sith,3
+21,4,Return of the Jedi,6
+22,4,A New Hope,4
+23,5,The Empire Strikes Back,5
+24,5,Revenge of the Sith,3
+25,5,Return of the Jedi,6
+26,5,A New Hope,4
+27,5,The Force Awakens,7
+28,6,Attack of the Clones,2
+29,6,Revenge of the Sith,3
+30,6,A New Hope,4
+31,7,Attack of the Clones,2
+32,7,Revenge of the Sith,3
+33,7,A New Hope,4
+34,8,A New Hope,4
+35,9,A New Hope,4
+36,10,The Empire Strikes Back,5
+37,10,Attack of the Clones,2
+38,10,The Phantom Menace,1
+39,10,Revenge of the Sith,3
+40,10,Return of the Jedi,6
+41,10,A New Hope,4
+42,11,Attack of the Clones,2
+43,11,The Phantom Menace,1
+44,11,Revenge of the Sith,3
+45,12,Revenge of the Sith,3
+46,12,A New Hope,4
+47,13,The Empire Strikes Back,5
+48,13,Revenge of the Sith,3
+49,13,Return of the Jedi,6
+50,13,A New Hope,4
+51,13,The Force Awakens,7
+52,14,The Empire Strikes Back,5
+53,14,Return of the Jedi,6
+54,14,A New Hope,4
+55,14,The Force Awakens,7
+56,15,A New Hope,4
+57,16,The Phantom Menace,1
+58,16,Return of the Jedi,6
+59,16,A New Hope,4
+60,17,The Empire Strikes Back,5
+61,17,Return of the Jedi,6
+62,17,A New Hope,4
+63,18,A New Hope,4
+64,19,The Empire Strikes Back,5
+65,19,Attack of the Clones,2
+66,19,The Phantom Menace,1
+67,19,Revenge of the Sith,3
+68,19,Return of the Jedi,6
+69,20,The Empire Strikes Back,5
+70,20,Attack of the Clones,2
+71,20,The Phantom Menace,1
+72,20,Revenge of the Sith,3
+73,20,Return of the Jedi,6
+74,21,The Empire Strikes Back,5
+75,21,Attack of the Clones,2
+76,21,Return of the Jedi,6
+77,22,The Empire Strikes Back,5
+78,23,The Empire Strikes Back,5
+79,24,The Empire Strikes Back,5
+80,24,Return of the Jedi,6
+81,25,The Empire Strikes Back,5
+82,26,Return of the Jedi,6
+83,26,The Force Awakens,7
+84,27,Return of the Jedi,6
+85,28,Return of the Jedi,6
+86,29,Return of the Jedi,6
+87,30,Return of the Jedi,6
+88,31,The Phantom Menace,1
+89,32,Attack of the Clones,2
+90,32,The Phantom Menace,1
+91,32,Revenge of the Sith,3
+92,33,The Phantom Menace,1
+93,34,Attack of the Clones,2
+94,34,The Phantom Menace,1
+95,35,The Phantom Menace,1
+96,36,The Phantom Menace,1
+97,37,The Phantom Menace,1
+98,38,Attack of the Clones,2
+99,38,The Phantom Menace,1
+100,39,The Phantom Menace,1
+101,40,The Phantom Menace,1
+102,41,Attack of the Clones,2
+103,41,The Phantom Menace,1
+104,42,The Phantom Menace,1
+105,43,Return of the Jedi,6
+106,44,Attack of the Clones,2
+107,44,The Phantom Menace,1
+108,44,Revenge of the Sith,3
+109,45,The Phantom Menace,1
+110,46,The Phantom Menace,1
+111,47,The Phantom Menace,1
+112,48,Attack of the Clones,2
+113,48,The Phantom Menace,1
+114,48,Revenge of the Sith,3
+115,49,Attack of the Clones,2
+116,49,The Phantom Menace,1
+117,49,Revenge of the Sith,3
+118,50,Attack of the Clones,2
+119,50,The Phantom Menace,1
+120,50,Revenge of the Sith,3
+121,51,The Phantom Menace,1
+122,51,Revenge of the Sith,3
+123,52,The Phantom Menace,1
+124,52,Revenge of the Sith,3
+125,53,The Phantom Menace,1
+126,53,Revenge of the Sith,3
+127,54,The Phantom Menace,1
+128,55,Attack of the Clones,2
+129,55,The Phantom Menace,1
+130,55,Revenge of the Sith,3
+131,56,Attack of the Clones,2
+132,56,The Phantom Menace,1
+133,57,Attack of the Clones,2
+134,58,Attack of the Clones,2
+135,59,Attack of the Clones,2
+136,60,Attack of the Clones,2
+137,60,Revenge of the Sith,3
+138,61,Attack of the Clones,2
+139,61,Revenge of the Sith,3
+140,62,Attack of the Clones,2
+141,63,Attack of the Clones,2
+142,64,Attack of the Clones,2
+143,64,Revenge of the Sith,3
+144,65,Attack of the Clones,2
+145,65,Revenge of the Sith,3
+146,66,Attack of the Clones,2
+147,67,Attack of the Clones,2
+148,68,Attack of the Clones,2
+149,69,Attack of the Clones,2
+150,70,Attack of the Clones,2
+151,71,Attack of the Clones,2
+152,72,The Phantom Menace,1
+153,73,Attack of the Clones,2
+154,73,Revenge of the Sith,3
+155,74,Attack of the Clones,2
+156,75,Attack of the Clones,2
+157,76,Attack of the Clones,2
+158,76,Revenge of the Sith,3
+159,77,Revenge of the Sith,3
+160,78,Revenge of the Sith,3
+161,79,Revenge of the Sith,3
+162,79,A New Hope,4
+163,80,Attack of the Clones,2
+164,80,Revenge of the Sith,3
+165,81,Revenge of the Sith,3
+166,82,The Force Awakens,7
+167,83,The Force Awakens,7
+168,84,The Force Awakens,7
+169,85,The Force Awakens,7
+170,86,The Force Awakens,7
+171,87,Attack of the Clones,2
+172,87,The Phantom Menace,1
+173,87,Revenge of the Sith,3
+174,1,The Last Jedi,8
+175,85,The Last Jedi,8
+176,2,The Last Jedi,8
+177,13,The Last Jedi,8
+178,33,The Last Jedi,8
+179,5,The Last Jedi,8
+180,30,The Last Jedi,8
+181,3,The Last Jedi,8
+182,83,The Last Jedi,8
+183,89,The Last Jedi,8
+184,19,The Last Jedi,8
+185,85,The Rise of Skywalker,9
+186,88,The Rise of Skywalker,10
+187,2,The Rise of Skywalker,11
+188,13,The Rise of Skywalker,12
+189,82,The Rise of Skywalker,13
+190,5,The Rise of Skywalker,14
+191,1,The Rise of Skywalker,15
+192,30,The Rise of Skywalker,16
+193,84,The Rise of Skywalker,17
+194,3,The Rise of Skywalker,18
+195,83,The Rise of Skywalker,19
+196,2,Rogue One: A Star Wars Story,10
+197,5,Rogue One: A Star Wars Story,10
+198,27,Rogue One: A Star Wars Story,10
+199,3,Rogue One: A Star Wars Story,10
+200,12,Rogue One: A Star Wars Story,10
+201,90,Rogue One: A Star Wars Story,10
+202,91,Rogue One: A Star Wars Story,10
+203,92,Rogue One: A Star Wars Story,10
+204,93,Rogue One: A Star Wars Story,10
+205,94,Rogue One: A Star Wars Story,10
+206,95,Rogue One: A Star Wars Story,10
+207,96,Rogue One: A Star Wars Story,10
+208,97,Rogue One: A Star Wars Story,10
+209,14,Solo: A Star Wars Story,11
+210,13,Solo: A Star Wars Story,11
+211,24,Solo: A Star Wars Story,11
+212,98,Solo: A Star Wars Story,11
+213,99,Solo: A Star Wars Story,11
+214,100,Solo: A Star Wars Story,11
+215,101,Solo: A Star Wars Story,11
+216,102,Solo: A Star Wars Story,11
+217,103,Solo: A Star Wars Story,11
+218,104,Solo: A Star Wars Story,11
+219,11,The Clone Wars,12
+220,42,The Clone Wars,12
+221,10,The Clone Wars,12
+222,21,The Clone Wars,12
+223,87,The Clone Wars,12
+224,77,The Clone Wars,12
+225,48,The Clone Wars,12
+226,34,The Clone Wars,12
+227,16,The Clone Wars,12
+228,15,The Clone Wars,12
+229,32,The Clone Wars,12
+230,2,The Clone Wars,12
+231,65,The Clone Wars,12
