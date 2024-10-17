@@ -28,7 +28,7 @@ CREATE TABLE char_starships (
 );
 ```
 
-**NOTE** All postgeSQL is in the postgresSQL file included in this respository
+**NOTE** All PostgreSQL is in the postgresSQL file included in this repository
 
 2. Place the CSV File: Place the CSV file (`char_starships.csv`) in a directory accessible by the PostgreSQL server.
 
